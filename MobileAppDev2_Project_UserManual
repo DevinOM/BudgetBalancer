@@ -1,0 +1,21 @@
+# Once program is launched,
+# the main UI should appear and be empty.
+#
+# In order to add first transaction,
+# click on the plus in the top right corner.
+#
+# Name and Price fields must be specified
+# in order to save transaction, 
+# program will not allow user to save unless fields
+# have been filled out.
+#
+# Once a transaction has been saved the home
+# UI will update with the transaction listed
+# and the total running balance will update too.
+#
+# All transaction records are clickable on the home
+# page to view more information.
+#
+# In order to delete a transaction, user must swipe
+# right on the transaction on the homepage then
+# click delete.
